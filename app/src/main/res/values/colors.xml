@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Basic Colors -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- App Theme Colors -->
+    <color name="primary">#6200EE</color>
+    <color name="primary_dark">#3700B3</color>
+    <color name="accent">#03DAC5</color>
+
+    <!-- Game Colors -->
+    <color name="player_x">#FF0000</color> <!-- Red -->
+    <color name="player_o">#0000FF</color> <!-- Blue -->
+
+    <!-- Background -->
+    <color name="background">#F5F5F5</color>
+
+</resources>
